@@ -1,3 +1,8 @@
+# Description
+
+### This project involves the execution of a password reset feature, where users receive a forget-password link via email.
+### Additionally, it includes frontend authentication facilitated by the use of cookies.
+
 # Steps to setup this project:
 
 ## Backend:
